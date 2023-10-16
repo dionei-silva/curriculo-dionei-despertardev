@@ -45,3 +45,9 @@ a{
       color: inherit;
       text-decoration: none;
 }
+
+.link {
+      max-width: 200px;
+      max-height: 150px;
+      margin-left: 150px;
+    }
