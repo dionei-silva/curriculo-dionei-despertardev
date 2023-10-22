@@ -17,6 +17,7 @@ O projeto consisite em usar todo conhecimento adquirido no modulo de HTML e CSS.
 
 * Deixei o reopisitorio no pages do github
 * Não tendo de baixar o projeto em seu computador
+* https://dionei-silva.github.io/curriculo-dionei-despertardev/
 
 
 ## Autores
